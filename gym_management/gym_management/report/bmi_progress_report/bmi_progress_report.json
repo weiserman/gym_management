@@ -1,0 +1,26 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2022-12-06 09:06:50.435169",
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "json": "{\"filters\":[],\"fields\":[[\"name\",\"Member Measurements\"],[\"docstatus\",\"Member Measurements\"],[\"member\",\"Member Measurements\"],[\"signs_date\",\"Member Measurements\"],[\"signs_time\",\"Member Measurements\"],[\"pulse\",\"Member Measurements\"],[\"weight\",\"Member Measurements\"],[\"bmi\",\"Member Measurements\"],[\"height\",\"Member Measurements\"]],\"order_by\":\"`tabMember Measurements`.`modified` desc\",\"add_totals_row\":0,\"page_length\":20,\"column_widths\":{\"name\":120,\"docstatus\":120,\"member\":120,\"signs_date\":120,\"signs_time\":120,\"pulse\":120,\"weight\":120,\"bmi\":120,\"height\":120},\"group_by\":null}",
+ "modified": "2022-12-06 09:15:38.817666",
+ "modified_by": "Administrator",
+ "module": "Gym Management",
+ "name": "BMI Progress Report",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Member Measurements",
+ "report_name": "BMI Progress Report",
+ "report_type": "Report Builder",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}
